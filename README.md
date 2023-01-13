@@ -451,7 +451,7 @@ export default Posts;
 
 화면이 작을수록 스크롤은 길어져요. 그런데 모바일 검색이 보편화하면서 작은 화면에서 많은 정보를 노출해야 하는 상황이 늘었습니다. 무한 스크롤은 좋은 방법이 될 수 있습니다. 모바일 환경에서 콘텐츠를 보여주기에 가장 직관적이고 사용하기 쉬운 형식이에요.
 
-### **무한 스크롤의 단점**
+## **무한 스크롤의 단점**
 
 ### 1) 페이지 성능이 느려집니다.
 
@@ -465,9 +465,8 @@ export default Posts;
 
 무한 스크롤의 또 다른 문제점은 스크롤 막대가 실제 사용 가능한 데이터의 양을 반영하지 않는다는 점입니다. 사용자는 페이지 맨 끝단에 곧 다다르리라 생각하며 스크롤을 할 텐데요. 하지만 곧 페이지 끝을 보는 데 기대했던 것의 2배의 시간이 걸린다는 것을 눈치채고 스크롤 막대가 실제 데이터의 양을 반영하지 않는다는 것을 깨닫게 됩니다. 사용성을 해치는 것이죠.
 
-4) 푸터를 찾기 어려워집니다. 푸터는 사용자에게 꼭 필요한 콘텐츠를 포함하는데요. 피드를 무한 스크롤 하면 하단에 도달할 때 더 많은 데이터가 로드되기 때문에 푸터는 시야 밖으로 밀려납니다.
+### 4) 푸터를 찾기 어려워집니다. 푸터는 사용자에게 꼭 필요한 콘텐츠를 포함하는데요. 피드를 무한 스크롤 하면 하단에 도달할 때 더 많은 데이터가 로드되기 때문에 푸터는 시야 밖으로 밀려납니다.
 
-[https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrJJx6%2FbtqwXHP8gkg%2FxBKjc8nDmZNbd8XFdG6qU0%2Fimg.jpg](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbrJJx6%2FbtqwXHP8gkg%2FxBKjc8nDmZNbd8XFdG6qU0%2Fimg.jpg)
 
 ## 페이지네이션의 장점
 
@@ -475,7 +474,6 @@ export default Posts;
 
 사용자가 단순히 정보의 흐름만 훑어보고 소비하는 것이 아니라 목록 내에서 특정 콘텐츠를 찾을 때 페이지네이션 방식은 유용합니다.
 
-[https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSXsDJ%2FbtqwYT3nXBT%2FFZdbKSc9jk6RR1ddCYrr8k%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSXsDJ%2FbtqwYT3nXBT%2FFZdbKSc9jk6RR1ddCYrr8k%2Fimg.png)
 
 ### 2) 통제감을 느낄 수 있습니다.
 
